@@ -1,0 +1,32 @@
+
+.bg1 {
+    background-image: url("../img/bg1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.bg2 {
+    background-image: url("../img/bg2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+ul {
+    list-style: none; 
+    padding-left: 8px;
+ }
+  
+li a{
+    color:white;
+    text-decoration: none;
+  }
+
+.opacity {
+  background-color:rgba(52, 58, 64, .8) ;
+ }
+ img {
+  border-radius: 8px;
+}
+
